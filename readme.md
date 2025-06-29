@@ -6,6 +6,6 @@
     - venv\Scripts\activate
     - pip install -r requirements.txt
     - Update the file export path in app_settings.ini 
-    - python .\main.py (from CoinTracker folder)
+    - python .\main.py (from TransactionsScrapperEtherscan folder)
 
 
